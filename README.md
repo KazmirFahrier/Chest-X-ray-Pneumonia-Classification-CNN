@@ -1,7 +1,7 @@
 <h1>Chest X-ray Pneumonia Classification — CNN (HW3)</h1>
 
 <p>
-This notebook builds and evaluates Convolutional Neural Networks (CNNs) to classify pediatric chest X-ray images
+This project builds and evaluates Convolutional Neural Networks (CNNs) to classify pediatric chest X-ray images
 as <em>NORMAL</em> vs <em>PNEUMONIA</em>. It covers dataset loading/visualization, a compact custom CNN, a ResNet-18
 head fine-tuning setup, fast CPU training, and validation-set evaluation.
 </p>
